@@ -1,0 +1,242 @@
+.header {
+    background-color: #4f46f5;
+    height: 75px;
+    color: white;
+    /* width: 55px; */
+    /* position: fixed; */
+}
+
+.tittelheader {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#carticon1 {
+    margin-left: 105ex;
+    cursor: pointer;
+}
+
+.classshoe {
+    display: flex;
+    box-shadow: 0px 0px 1px 2px rgba(0, 0, 0, 0.465);
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    background-color: rgb(245, 243, 243)
+}
+
+.classshoe:hover {
+    background-color: white;
+}
+
+.imgshoeclass {
+    height: 35vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.tit {
+    color: rgba(0, 0, 0, 0.576);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.shoecart {
+    height: 3vh;
+    width: 200px;
+    background-color: #ffa100;
+    border: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#carticon {
+    color: white;
+}
+
+.addtocart {
+    margin-left: 10px;
+}
+
+.shoetittel {
+    color: rgba(0, 0, 0, 0.576);
+    font-family: sans-serif;
+    /* margin-top: 100px; */
+    margin-left: 30px;
+}
+
+.shoename {
+    color: rgba(0, 0, 0, 0.687);
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+
+.cost {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+}
+
+.rate {
+    margin-left: 30px;
+}
+
+.offerrate {
+    color: rgba(0, 0, 0, 0.52);
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.offerpect {
+    color: green;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.reviewbtn {
+    margin-left: 30px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px
+}
+
+.star {
+    color: white
+}
+
+.rating {
+    color: rgba(0, 0, 0, 0.576);
+    margin-left: 10px;
+}
+
+.shoedec {
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+.imgshoeclass2 {
+    width: 530px;
+    height: 35vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.imgshoeclass3 {
+    width: 530px;
+    height: 35vh;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.alink {
+    color: white;
+}
+
+.noofiterm {
+    color: rgba(0, 0, 0, 0.576);
+    font-family: sans-serif;
+    margin-left: 205px;
+    font-size: 20px;
+    background-color: #4f46f5;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 300px;
+    margin-top: 70px;
+    cursor: pointer
+}
+
+.totalitem {
+    color: rgba(0, 0, 0, 0.576);
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.subtotal {
+    /* color: rgba(0, 0, 0, 0.576); */
+    font-family: sans-serif;
+    margin-left: 58rem;
+    margin-top: 70px;
+    color: rgba(0, 0, 0, 0.576);
+}
+
+.totalamount {
+    /* color: rgba(0, 0, 0, 0.576); */
+    font-family: sans-serif;
+}
+
+.listsst {
+    color: #fff;
+    color: rgba(0, 0, 0, 0.576);
+    font-family: sans-serif;
+    list-style: none;
+    box-shadow: 1px 2px 4px 6px whitesmoke;
+    height: 280px;
+    margin-left: 50px;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-top: 50px;
+    padding-left: 10px;
+    /* width: 300px; */
+    flex-direction: column;
+    background-color: rgb(245, 243, 243)
+}
+
+.namestr {
+    color: rgba(0, 0, 0, 0.576);
+    font-family: sans-serif;
+    margin-top: -230px;
+    margin-left: 85px
+}
+
+.countstr {
+    /* color: rgba(0, 0, 0, 0.576); */
+    font-family: sans-serif;
+    margin-left: 81rem;
+    font-size: 20px;
+    color: white;
+    background-color: #4f46f5;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
+
+.ratestr {
+    /* color: rgba(0, 0, 0, 0.576); */
+    font-family: sans-serif;
+    margin-left: 85px;
+    font-size: 20px;
+}
+
+.idcatshoe {
+    margin-left: 100px;
+    margin-right: 150px;
+}
+
+.des {
+    color: rgba(0, 0, 0, 0.576);
+    font-family: sans-serif;
+    margin-left: 85px;
+    font-size: 21px;
+    padding-right: 50px;
+}
+
+.to {
+    float: right;
+    margin-right: 100px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+}
